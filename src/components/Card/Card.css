@@ -1,0 +1,13 @@
+.menu-card {
+  background-color: #EFEFEF; /* Mavi arka plan (artık görünmeyecek) */
+  color: black;
+  padding: 0; /* Üst padding kaldırıldı */
+  /*border-radius: 20px; /* Tüm köşeler 20px yuvarlatıldı */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
+  width: 100%;
+  height: 100%;
+}
+
+.kontrol {
+  border: 1px solid blue
+}
